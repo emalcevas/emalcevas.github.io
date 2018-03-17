@@ -13,6 +13,8 @@ primarylinks:
    url: https://www.linkedin.com/in/edgaras-malcevas-a17b35a9/
  - title: Portfolio
    url: ./portfolio.html
+ - title: Write me an email
+   url: mailto:edgarasdarbo@gmail.com
 
 #Any buzzword skills you want to include
 skills:

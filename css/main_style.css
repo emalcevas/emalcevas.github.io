@@ -579,7 +579,9 @@ td.loginRow {
 }
 
 @media screen and (min-width: 768px){
-
+	.mobile-menu-toogle-style {
+		display: none;
+	}
 	html{
 		font-size: 62.5%;
 	}
@@ -689,5 +691,11 @@ p:last-child{
 
 .framework-version {
 	padding-right: 27px;
+}
+
+.mobile-menu-toogle-style {
+	float: right;
+	padding: 15px;
+	cursor: pointer;
 }
 
