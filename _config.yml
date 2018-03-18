@@ -27,6 +27,7 @@ skills:
  - Knockout
  - Rest
  - GIT
+ - Bootstrap
  - Css/scss
  - Prestashop
  - WordPress
@@ -49,7 +50,7 @@ roles:
    start: 2016
    end: 2017
    employer: Baltic Home, UAB
-   description: Developing new comercial products, old projects maitence, various modules development/maitence.
+   description: Developing new comercial products, old projects maintenance, various modules development/maintenance.
 
 #Education is required
 education:
