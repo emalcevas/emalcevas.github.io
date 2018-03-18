@@ -83,5 +83,24 @@ extraCourses:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-  TODO
+  <b>Languages:</b> English, Russian<br>
+  <b>Car licence:</b> B kategory<br>
+  <b>Birth date:</b> 08/03/1990<br><br>
+  <b>More about me: </b><br>
+  In university I was very active and made some projects, like robot hit detection system (with gsm module).
+  Also I participated in conference with "quiz" program developed with "Perl".
+  Additionally I won "STT" (Special Investigation Bureau) contest by making animated banner (using Flash 8.0).
+  <br>
+  I am self-motivated and eager to learn new things. <br><br>
+  <b>Hobbies:</b><ul>
+  <li>
+  I love to work with Raspberry pi <img src="../img/raspberry-pi-logo.png">.
+  </li>
+  <li>
+  All kind of health activities.
+  </li>
+  <li>
+  In free time I like to read about new technologies/their working principles, programming trends.
+  </li>
+  </ul> <br>
 #theme: jekyll-theme-cayman
