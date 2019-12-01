@@ -48,7 +48,12 @@ roles:
    start: 2017
    end: Ongoing
    employer: Singletonas, UAB
-   description: Working with "Angular 2+" framework, JAVA 8, IBM MQ, TIBCO EMS. Using various databases (MySQL, PostgreSQL, Oracle, DB2, MS SQL).
+   description: Working with "Angular 2+" framework, JAVA 8, IBM MQ, TIBCO EMS. Using various databases.
+- title: Programming Teacher
+   start: 2018
+   end: 2018
+   employer: Baltic Institute of Technology, UAB
+   description: Teaching others about web basics (HTML/CSS/jQuery/JavaScript).
  - title: Full-Stack programmer
    start: 2016
    end: 2017
