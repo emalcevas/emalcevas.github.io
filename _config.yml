@@ -21,9 +21,14 @@ skills:
  - PHP
  - Yii2
  - MySQL
+ - PostgreSQL
+ - MS SQL
+ - Oracle
+ - DB2
+ - JAVA 8
  - JavaScript
  - jQuery
- - Angular 2/4
+ - Angular 2+
  - Knockout
  - Rest
  - GIT
@@ -32,23 +37,26 @@ skills:
  - Prestashop
  - WordPress
  - Linux
+ - IBM MQ
+ - TIBCO EMS
+ 
 
 
 #Work experience is required
 roles:
- - title: Front-End programmer
-   start: 2018
-   end: Ongoing
-   employer: Singletonas, UAB
-   description: Working with "Angular 4" framework as Front-End developer.
  - title: Full-Stack programmer
    start: 2017
-   end: 2018
+   end: Ongoing
+   employer: Singletonas, UAB
+   description: Working with "Angular 2+" framework, JAVA 8, IBM MQ, TIBCO EMS. Using various databases (MySQL, PostgreSQL, Oracle, DB2, MS SQL).
+ - title: Full-Stack programmer
+   start: 2016
+   end: 2017
    employer: ITPC, UAB
    description: Full stack jobs. Mostly working with Yii2 (php) framework, also with "Prestashop".
  - title: Full-Stack/Prestashop programmer
-   start: 2016
-   end: 2017
+   start: 2015
+   end: 2016
    employer: Baltic Home, UAB
    description: Developing new comercial products, old projects maintenance, various modules development/maintenance.
 
